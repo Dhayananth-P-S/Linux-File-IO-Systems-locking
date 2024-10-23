@@ -78,7 +78,8 @@ return 0;
 ```
 ## OUTPUT
 ![Screenshot 2024-10-23 133206](https://github.com/user-attachments/assets/ba873cd4-a2ab-4739-b6db-f9d03c93114e)
-![Uploading Screenshot 2024-10-23 133225.png…]()
+![Screenshot 2024-10-23 133225](https://github.com/user-attachments/assets/ef5069b7-eec9-4b61-908c-9e994effc9d9)
+
 
 
 
